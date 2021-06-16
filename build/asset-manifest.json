@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mapmarker/static/css/main.aa7445bf.chunk.css",
+    "main.js": "/mapmarker/static/js/main.b9dfc457.chunk.js",
+    "main.js.map": "/mapmarker/static/js/main.b9dfc457.chunk.js.map",
+    "runtime-main.js": "/mapmarker/static/js/runtime-main.c4dcf813.js",
+    "runtime-main.js.map": "/mapmarker/static/js/runtime-main.c4dcf813.js.map",
+    "static/js/2.5d4e3eed.chunk.js": "/mapmarker/static/js/2.5d4e3eed.chunk.js",
+    "static/js/2.5d4e3eed.chunk.js.map": "/mapmarker/static/js/2.5d4e3eed.chunk.js.map",
+    "static/js/3.7e1046e0.chunk.js": "/mapmarker/static/js/3.7e1046e0.chunk.js",
+    "static/js/3.7e1046e0.chunk.js.map": "/mapmarker/static/js/3.7e1046e0.chunk.js.map",
+    "index.html": "/mapmarker/index.html",
+    "static/css/main.aa7445bf.chunk.css.map": "/mapmarker/static/css/main.aa7445bf.chunk.css.map",
+    "static/js/2.5d4e3eed.chunk.js.LICENSE.txt": "/mapmarker/static/js/2.5d4e3eed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4dcf813.js",
+    "static/js/2.5d4e3eed.chunk.js",
+    "static/css/main.aa7445bf.chunk.css",
+    "static/js/main.b9dfc457.chunk.js"
+  ]
+}
